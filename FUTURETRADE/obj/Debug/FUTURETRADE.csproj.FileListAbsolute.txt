@@ -1,0 +1,13 @@
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\bin\FUTURETRADE.dll.config
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\bin\FUTURETRADE.dll
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\bin\FUTURETRADE.pdb
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\bin\HtmlAgilityPack.dll
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\bin\Newtonsoft.Json.dll
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\bin\HtmlAgilityPack.pdb
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\bin\HtmlAgilityPack.xml
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\bin\Newtonsoft.Json.xml
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\obj\Debug\FUTURETRADE.csproj.CoreCompileInputs.cache
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\obj\Debug\FUTURETRADE.csproj.CopyComplete
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\obj\Debug\FUTURETRADE.dll
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\obj\Debug\FUTURETRADE.pdb
+D:\NetProject\repos\FUTURETRADE\FUTURETRADE\obj\Debug\FUTURETRADE.csprojResolveAssemblyReference.cache
